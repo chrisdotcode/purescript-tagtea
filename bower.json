@@ -11,8 +11,8 @@
     "output"
   ],
   "dependencies": {
-    "purescript-strings": "~0.7.1",
     "purescript-maps": "~0.5.4",
-    "purescript-maybe": "~0.3.5"
+    "purescript-maybe": "~0.3.5",
+    "purescript-string-parsers": "~0.6.4"
   }
 }
