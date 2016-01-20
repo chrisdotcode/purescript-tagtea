@@ -1,0 +1,18 @@
+{
+  "name": "purescript-tagtea",
+  "version": "1.0.0-dev",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-strings": "~0.7.1",
+    "purescript-maps": "~0.5.4",
+    "purescript-maybe": "~0.3.5"
+  }
+}
